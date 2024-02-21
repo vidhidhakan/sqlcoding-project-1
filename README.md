@@ -96,5 +96,3 @@ Create and call a stored procedure that lists a unique row id number, insert dat
 
 Order by the insert date and output the results (including headers) to a CSV file located in /source_data/csv_output/ .
 
-Click to expand expected results!
-Click to expand answer!
