@@ -72,7 +72,7 @@ Produce a query that returns the city names for cities in the U.S. that were ins
 
 Click to expand expected results!
 Click to expand answer!
-
+ 
 13. Most Consecutive Days
 List the most consecutive inserted dates and the capitalized city names for cities in Canada that where inserted in April 2022.
 
