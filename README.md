@@ -1,4 +1,4 @@
-     --  sqlcoding-project-1
+      --  sqlcoding-project-1
 
 SQL Code Challenge
 1. Create Database, Tables and Relations.
