@@ -79,7 +79,7 @@ List the most consecutive inserted dates and the capitalized city names for citi
  Click to expand expected results!
 Click to expand answer!
 
- 14. Month over Month in View
+  14. Month over Month in View
 Create a view that lists the month-year, the number of cities inserted for that month, a running city count total and the month over month percentage growth for 2021.
 
 Format the cities count and the running total with the thousands separator and format the month over month growth with a plus symbol and percentage symbol
