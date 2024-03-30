@@ -48,6 +48,7 @@ List all of the countries that end in 'stan'. Make your query case-insensitive a
 
 Click to expand expected results!
 Click to expand answer!
+-----------------------------------------------------------------------------------
 
 9. Ranking Regions
 List the third most populated city ranked by region WITHOUT using limit or offset. List the region name, city name, population and order the results by region.
