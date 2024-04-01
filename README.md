@@ -85,7 +85,7 @@ Create a view that lists the month-year, the number of cities inserted for that 
 
 Format the cities count and the running total with the thousands separator and format the month over month growth with a plus symbol and percentage symbol
 
-Example:
+Example:1234
  
 month_year	cities_inserted	running_total	month_over_month
 Feb-2021	1,291	2,762	+87.76%
