@@ -96,4 +96,4 @@ Feb-2021	1,291	2,762	+87.76%
 Create and call a stored procedure that lists a unique row id number, insert date, country name, city name, population and languages spoken for countries in the Latin America and Caribbean sub-region that were inserted on either '2022-04-09', '2022-04-28' or '2022-08-11'.
 
 Order by the insert date and output the results (including headers) to a CSV file located in /source_data/csv_output/ .
---------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
