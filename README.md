@@ -90,7 +90,7 @@ Example:1234
 month_year	cities_inserted	running_total	month_over_month
 Feb-2021	1,291	2,762	+87.76%
 
-123456778
+
  
  15. Stored Procedure to CSV
 Create and call a stored procedure that lists a unique row id number, insert date, country name, city name, population and languages spoken for countries in the Latin America and Caribbean sub-region that were inserted on either '2022-04-09', '2022-04-28' or '2022-08-11'.
